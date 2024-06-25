@@ -1,6 +1,7 @@
 # Depth Estimation Streamlit
 
 This repository contains the code for a depth estimation project using Streamlit. 
+![Untitled-2023-09-12-1528](https://github.com/Yusuf-Cizlasmak/Depth_Estimation_Streamlit/assets/97342455/f40bf0da-fb38-4645-a071-faf5b72ef715)
 
 ## Overview
 The Depth Estimation Streamlit project aims to provide a user-friendly interface for estimating depth from images. It utilizes deep learning techniques to generate accurate depth maps.
